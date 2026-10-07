@@ -59,7 +59,3 @@ Then open the local URL printed by Next.js.
 - Email: [sak.kedare@gmail.com](mailto:sak.kedare@gmail.com)
 - LinkedIn: [saksham-kedare](https://www.linkedin.com/in/saksham-kedare-1065882b1/)
 - GitHub: [@Soul0418](https://github.com/Soul0418)
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
