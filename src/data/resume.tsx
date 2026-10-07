@@ -132,10 +132,18 @@ export const DATA = {
     {
       school: "Model College, Dombivli",
       href: "https://model-college.edu.in/",
-      degree: "Bachelor’s Degree in Information Technology",
+      degree: "Bachelor’s Degree in Information Technology (Completed)",
       logoUrl: "/model-college.png",
-      start: "2023",
-      end: "2026",
+      start: "June 2023",
+      end: "June 2026",
+    },
+    {
+      school: "ITVedant",
+      href: "https://www.itvedant.com/",
+      degree: "Data Science Course (Currently Pursuing)",
+      logoUrl: "/itvedant.svg",
+      start: "June 2026",
+      end: "Present",
     },
   ],
   projects: [
