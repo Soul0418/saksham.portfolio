@@ -227,12 +227,40 @@ export const DATA = {
   ],
   hackathons: [
     {
+      title: "Data Science Course — ITVedant",
+      dates: "June 2026 – Present",
+      location: "",
+      description: "Currently pursuing a Data Science course.",
+      image: "/itvedant.svg",
+      links: [
+        {
+          title: "ITVedant",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://www.itvedant.com/",
+        },
+      ],
+    },
+    {
+      title: "Bachelor’s Degree in Information Technology — Model College",
+      dates: "June 2023 – June 2026",
+      location: "Dombivli, Maharashtra",
+      description: "Completed a Bachelor’s Degree in Information Technology.",
+      image: "/model-college.png",
+      links: [
+        {
+          title: "Model College",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://model-college.edu.in/",
+        },
+      ],
+    },
+    {
       title: "Data Analyst Intern — Code Alpha",
       dates: "January 2026 – February 2026",
       location: "Remote",
       description:
         "Analyzed large datasets, cleaned and transformed data, and built Excel, SQL, and Power BI reports and dashboards to communicate insights.",
-      image: "",
+      image: "/code-alpha.jpg",
       links: [
         {
           title: "Code Alpha",
@@ -247,7 +275,7 @@ export const DATA = {
       location: "Remote",
       description:
         "Built responsive web pages and campaign layouts with HTML, CSS, JavaScript, and React, focusing on accessible, user-friendly interfaces.",
-      image: "",
+      image: "/collegetips.jpg",
       links: [
         {
           title: "CollegeTips.in",
@@ -262,12 +290,12 @@ export const DATA = {
       location: "Remote",
       description:
         "Explored AI-powered project-management tools and concepts in task and resource management, risk planning, and workflow automation; presented outcomes in the final-week CEO presentation.",
-      image: "",
+      image: "/excelerate-mark.png",
       links: [
         {
           title: "Excelerate",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://www.excelerate.com/",
+          href: "https://4excelerate.org/",
         },
       ],
     },
