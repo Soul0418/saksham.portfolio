@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { HomeIcon, Instagram } from "lucide-react";
 import { BarChart3, Database, FileSpreadsheet, LineChart, Code2 } from "lucide-react";
 
 export const DATA = {
@@ -47,7 +47,11 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    {
+      href: "https://www.instagram.com/sakshamm.tsx?stkn=MXkwN3F2ZzdsODZ2eg==",
+      icon: Instagram,
+      label: "Instagram",
+    },
   ],
   contact: {
     email: "sak.kedare@gmail.com",
