@@ -131,9 +131,9 @@ export const DATA = {
   education: [
     {
       school: "Model College, Dombivli",
-      href: "https://modelcollege.edu.in/",
+      href: "https://model-college.edu.in/",
       degree: "Bachelor’s Degree in Information Technology",
-      logoUrl: "",
+      logoUrl: "/model-college.png",
       start: "2023",
       end: "2026",
     },
