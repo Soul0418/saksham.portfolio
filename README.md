@@ -1,47 +1,65 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+<p align="center">
+  <img src="./public/me.jpeg" alt="Saksham Kedare" width="140" />
+</p>
+<h1 align="center">Saksham Kedare</h1>
+<p align="center"><strong>Data Analyst | SQL | Excel | Power BI | Tableau | Python</strong></p>
+<p align="center">
+  <a href="https://github.com/Soul0418">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/saksham-kedare-1065882b1/">LinkedIn</a> ·
+  <a href="mailto:sak.kedare@gmail.com">Email</a>
+</p>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+## About me
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+I'm a Data Analyst with a Bachelor's degree in Information Technology and hands-on experience in data cleaning, transformation, analysis, visualization, and dashboard development. I enjoy turning raw data into clear insights and practical, data-driven solutions.
 
-# Features
+I have worked with Excel, SQL, Power BI, Tableau, and Python, and I'm currently focused on growing my career in data analytics.
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+## Featured projects
 
-# Getting Started Locally
+| Project | What it does | Links |
+| --- | --- | --- |
+| **IPL Auction Analysis** | Explores IPL auction data, player performance, team strategies, and auction prices through an interactive dashboard. | [Live app](https://iplauctionanalysis.streamlit.app/) · [Source](https://github.com/Soul0418/IPL) |
+| **Uber Data Analysis Dashboard** | Analyzes Uber trip data and presents findings with Excel and Power BI. | [Source](https://github.com/Soul0418/Uber-) |
+| **FIFA World Cup Data Analysis** | Uses SQL to explore the 2014, 2018, and 2022 tournaments and surface data-driven insights. | [GitHub profile](https://github.com/Soul0418) |
+| **PathPilot** | Career-development platform with industry insights, resume and cover-letter tools, interview preparation, and application tracking. | [Live app](https://path-pilot-omega.vercel.app/) |
 
-1. Clone this repository to your local machine:
+## Experience
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+- **Data Analyst Intern — Code Alpha** · Remote · January–February 2026 — Cleaned and transformed large datasets, analyzed data with Excel and SQL, and built Power BI reports and dashboards.
+- **Web Development Intern — CollegeTips.in** · Remote · May–June 2025 — Built responsive web pages and campaign layouts with HTML, CSS, JavaScript, and React.
+- **Intern — Excelerate, Team 29** · Remote · May–June 2025 — Explored project-management workflows and AI-powered tools, including task and resource planning, risk management, and workflow automation.
 
-2. Move to the cloned directory
+## Skills
 
-   ```bash
-   cd portfolio
-   ```
+- **Analytics:** Data analysis, data cleaning, data transformation, exploratory and statistical analysis, data visualization, business intelligence, dashboard development
+- **Tools:** Excel, SQL / MySQL, Power BI, Tableau, Python, Pandas, NumPy, Matplotlib
+- **Web and development:** HTML, CSS, JavaScript, React, Next.js, Git, GitHub
+- **Strengths:** Analytical thinking, critical thinking, problem solving, teamwork, adaptability
 
-3. Install dependencies:
+## Education
 
-   ```bash
-   pnpm install
-   ```
+**Bachelor's Degree in Information Technology** — Model College, Dombivli · 2023–2026
 
-4. Start the local Server:
+## This portfolio
 
-   ```bash
-   pnpm dev
-   ```
+This repository contains the source code for my portfolio website, built with Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, and Magic UI. Profile and portfolio content is maintained in [`src/data/resume.tsx`](./src/data/resume.tsx).
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+### Run locally
 
-# License
+```bash
+pnpm install
+pnpm dev
+```
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+Then open the local URL printed by Next.js.
+
+## Contact
+
+- Email: [sak.kedare@gmail.com](mailto:sak.kedare@gmail.com)
+- LinkedIn: [saksham-kedare](https://www.linkedin.com/in/saksham-kedare-1065882b1/)
+- GitHub: [@Soul0418](https://github.com/Soul0418)
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
