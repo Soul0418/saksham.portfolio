@@ -97,7 +97,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Data Analyst Intern",
-      logoUrl: "",
+      logoUrl: "/code-alpha.jpg",
       start: "January 2026",
       end: "February 2026",
       description:
@@ -109,7 +109,7 @@ export const DATA = {
       href: "https://collegetips.in/",
       location: "Remote",
       title: "Web Development Intern",
-      logoUrl: "",
+      logoUrl: "/collegetips.jpg",
       start: "May 2025",
       end: "June 2025",
       description:
@@ -121,7 +121,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Intern",
-      logoUrl: "",
+      logoUrl: "/excelerate-mark.png",
       start: "May 2025",
       end: "June 2025",
       description:
