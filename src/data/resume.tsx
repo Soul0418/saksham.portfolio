@@ -37,13 +37,6 @@ export const DATA = {
     { name: "Next.js", icon: Code2 },
     { name: "Git", icon: Code2 },
     { name: "GitHub", icon: Code2 },
-    { name: "Critical Thinking", icon: Code2 },
-    { name: "Problem Solving", icon: Code2 },
-    { name: "Analytical Thinking", icon: LineChart },
-    { name: "Teamwork", icon: Code2 },
-    { name: "Leadership", icon: Code2 },
-    { name: "Adaptability", icon: Code2 },
-    { name: "Fast Learning", icon: Code2 },
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -171,7 +164,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/ipl-auction-dashboard.png",
       video: "",
     },
     {
@@ -189,7 +182,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/uber-data-dashboard.png",
       video: "",
     },
     {
